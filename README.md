@@ -4,7 +4,7 @@
 <hr>
 
 Projeto MongoDB criado com a ideia de abstrair uma rede social, contendo users, posts e comments dos users. 
-
+<hr>
 
 
 <h3 align="left">Languages and Tools:</h3>
