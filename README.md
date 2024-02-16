@@ -7,7 +7,7 @@ Projeto MongoDB criado com a ideia de abstrair uma rede social, contendo users, 
 <h3>Domain Model</h3>
 <hr>
 
-!
+![DM](https://github.com/BodeDimitri/sprinboot-mongodb/blob/main/DM.JPG)
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
